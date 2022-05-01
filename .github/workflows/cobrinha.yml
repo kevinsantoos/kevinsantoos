@@ -1,4 +1,10 @@
 # Nome da Actions:  
+  
+  permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+  
 name: Snake Game
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
