@@ -1,14 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/kevin-sousa-5a6a9b210/"><i>Kevin Santos</i></a> </h1>
   
-
-<div align="center">
-  <a href="https://github.com/kevinSantos01">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=kevinsantoos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantoos&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-
 <!-- <h1 align="center"> 
   Trybe
 </h1>
