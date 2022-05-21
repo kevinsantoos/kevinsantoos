@@ -1,8 +1,5 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/kevin-sousa-5a6a9b210/"><i>Kevin Santos</i></a> </h1>
-  ![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-Web%20Developer-brightgreen)
-![living](https://img.shields.io/badge/country-Brazil-3c9)
   
 <!-- <h1 align="center"> 
   Trybe
