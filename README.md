@@ -14,7 +14,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="kevin-Portugol Studio" height="30" width="40" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
   <img align="center" alt="kevin- C " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
                                                                                                                                                   
 </div><br>
